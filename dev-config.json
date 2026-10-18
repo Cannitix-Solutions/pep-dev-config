@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "environment": "test",
+  "api_base_url": "https://ca-peptitrack-api-dev.victoriousrock-f926969f.centralindia.azurecontainerapps.io/api/v1",
+  "min_build": 34,
+  "issued_at": "2026-10-18T21:05:00Z"
+}
